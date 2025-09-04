@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 80.25 7.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-4 {
+        fill: #fff;
+        mix-blend-mode: lighten;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-6 {
+        isolation: isolate;
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-7, .cls-8, .cls-9 {
+        mix-blend-mode: overlay;
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient-7);
+      }
+
+      .cls-10 {
+        fill: #c77619;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-40.78" y1="4.71" x2="62.16" y2="3.22" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c77619"/>
+      <stop offset=".04" stop-color="#ca7c1f"/>
+      <stop offset=".08" stop-color="#d38e32"/>
+      <stop offset=".14" stop-color="#e2ab50"/>
+      <stop offset=".21" stop-color="#f6d37a"/>
+      <stop offset=".23" stop-color="#ffe48c"/>
+      <stop offset=".23" stop-color="#fee189"/>
+      <stop offset=".29" stop-color="#fcc563"/>
+      <stop offset=".35" stop-color="#f9af46"/>
+      <stop offset=".4" stop-color="#f89f30"/>
+      <stop offset=".46" stop-color="#f79624"/>
+      <stop offset=".51" stop-color="#f79320"/>
+      <stop offset=".75" stop-color="#f79320"/>
+      <stop offset=".79" stop-color="#f08f1f"/>
+      <stop offset=".83" stop-color="#dd831c"/>
+      <stop offset=".88" stop-color="#c77619"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-1435.59" y1="-1014.8" x2="-1435.59" y2="-1020.74" gradientTransform="translate(-939.38 -1431.89) rotate(-90) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff9821"/>
+      <stop offset=".12" stop-color="#ff9e20"/>
+      <stop offset=".29" stop-color="#ffb120"/>
+      <stop offset=".49" stop-color="#ffcf1f"/>
+      <stop offset=".51" stop-color="#ffd21f"/>
+      <stop offset=".54" stop-color="#ffd225"/>
+      <stop offset=".59" stop-color="#ffd338"/>
+      <stop offset=".62" stop-color="#ffd447"/>
+      <stop offset=".7" stop-color="#fecd43"/>
+      <stop offset=".81" stop-color="#fbba37"/>
+      <stop offset=".94" stop-color="#f89c25"/>
+      <stop offset=".97" stop-color="#f79320"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="77.52" y1=".63" x2="77.86" y2="6.83" gradientUnits="userSpaceOnUse">
+      <stop offset=".23" stop-color="#fff"/>
+      <stop offset=".82" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" y1="-1006.22" y2="-1010.54" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-5" x1="68.44" y1="1.78" x2="68.57" y2="6.67" xlink:href="#linear-gradient-3"/>
+    <linearGradient id="linear-gradient-6" y1="-998.53" y2="-1002.84" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-7" x1="60.83" y1="1.71" x2="60.75" y2="5.69" xlink:href="#linear-gradient-3"/>
+  </defs>
+  <g class="cls-6">
+    <g id="Layer_2" data-name="Layer 2">
+      <g id="Layer_1-2" data-name="Layer 1">
+        <g>
+          <polygon class="cls-5" points="77.95 4.86 46.37 5.34 0 5.32 0 2.23 46.58 2.21 77.95 2.73 77.95 4.86"/>
+          <g>
+            <g>
+              <ellipse class="cls-3" cx="77.69" cy="3.7" rx="2.39" ry="3.7"/>
+              <path class="cls-10" d="M77.69,0c-3.1.27-2.89,6.74,0,7.08,2.88-.34,3.1-6.8,0-7.08h0ZM77.69,0c3.3.33,3.52,7.43,0,7.7-3.52-.27-3.3-7.37,0-7.7h0Z"/>
+            </g>
+            <ellipse class="cls-7" cx="77.69" cy="3.7" rx="1.97" ry="3.04"/>
+            <ellipse class="cls-4" cx="78.23" cy="1.42" rx=".54" ry=".81" transform="translate(19.36 52.96) rotate(-42.25)"/>
+            <ellipse class="cls-4" cx="77.99" cy="2.57" rx=".27" ry=".34" transform="translate(18.53 53.1) rotate(-42.25)"/>
+          </g>
+          <g>
+            <g>
+              <ellipse class="cls-2" cx="68.49" cy="3.7" rx="1.74" ry="2.69"/>
+              <path class="cls-10" d="M68.49,1.01c-2.24.22-2.07,4.82,0,5.1,2.06-.28,2.24-4.88,0-5.1h0ZM68.49,1.01c2.42.28,2.61,5.41,0,5.64-2.6-.22-2.42-5.36,0-5.64h0Z"/>
+            </g>
+            <ellipse class="cls-8" cx="68.49" cy="3.7" rx="1.41" ry="2.18"/>
+            <ellipse class="cls-4" cx="68.87" cy="2.05" rx=".4" ry=".61" transform="translate(16.51 46.84) rotate(-42.25)"/>
+            <ellipse class="cls-4" cx="68.7" cy="2.92" rx=".2" ry=".26" transform="translate(15.88 46.94) rotate(-42.25)"/>
+          </g>
+          <g>
+            <g>
+              <ellipse class="cls-1" cx="60.79" cy="3.7" rx="1.74" ry="2.69"/>
+              <path class="cls-10" d="M60.79,1.01c-2.24.22-2.07,4.82,0,5.1,2.06-.28,2.24-4.88,0-5.1h0ZM60.79,1.01c2.42.28,2.61,5.41,0,5.64-2.6-.22-2.42-5.36,0-5.64h0Z"/>
+            </g>
+            <ellipse class="cls-9" cx="60.79" cy="3.7" rx="1.39" ry="2.15"/>
+            <ellipse class="cls-4" cx="61.2" cy="2.05" rx=".4" ry=".61" transform="translate(14.51 41.67) rotate(-42.25)"/>
+            <ellipse class="cls-4" cx="61.02" cy="2.92" rx=".2" ry=".26" transform="translate(13.89 41.78) rotate(-42.25)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
